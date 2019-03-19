@@ -324,8 +324,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4bf96be6a9a0f704e99d522c8166e9ca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpatialAnchorsAccountId: 
-  SpatialAnchorsAccountKey: 
+  SpatialAnchorsAccountId: IIIIIIIIIIIIIIIIIIIII
+  SpatialAnchorsAccountKey: KKKKKKKKKKKKK
 --- !u!1 &339971469
 GameObject:
   m_ObjectHideFlags: 0
